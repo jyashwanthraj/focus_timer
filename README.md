@@ -6,7 +6,7 @@ A simple and minimal Pomodoro-based focus timer app to boost productivity and ma
 
 - ⏱️ Pomodoro technique (Focus, Short Break, Long Break)
 - 🔄 Auto-reset between timer cycles
-- 🎵 Play your favorite YouTube music by pasting the link
+- 🎵 Play your favorite YouTube music by pasting the link -- beta
 - 🌙 Clean, distraction-free UI
 - 🎯 Helps improve consistency and productivity
 
